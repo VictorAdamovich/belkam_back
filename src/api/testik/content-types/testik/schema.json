@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "testiks",
+  "info": {
+    "singularName": "testik",
+    "pluralName": "testiks",
+    "displayName": "testik"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "value": {
+      "type": "string"
+    }
+  }
+}

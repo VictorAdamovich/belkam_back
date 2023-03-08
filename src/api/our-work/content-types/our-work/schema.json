@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "our_works",
+  "info": {
+    "singularName": "our-work",
+    "pluralName": "our-works",
+    "displayName": "ourWork"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "imges": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "work_plans",
+  "info": {
+    "singularName": "work-plan",
+    "pluralName": "work-plans",
+    "displayName": "WorkPlan",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "price": {
+      "type": "integer"
+    }
+  }
+}
